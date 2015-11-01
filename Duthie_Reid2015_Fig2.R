@@ -1,5 +1,4 @@
 
-setwd(path.expand("~/Dropbox/DuthieManu/InbreedingNote/PLosOne"))
 setEPS();
 postscript("ClassicInbr.eps");
 
