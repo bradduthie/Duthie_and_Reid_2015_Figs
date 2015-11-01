@@ -1,7 +1,6 @@
 # ==============================================================================
 # ============= This will be the big figure for the Plos model.
 # ==============================================================================
-setwd(path.expand("~/Dropbox/DuthieManu/InbreedingNote/PLosOne/Revision/Resend/Again"))
 
 B0 <- 1;
 
